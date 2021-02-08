@@ -1,0 +1,281 @@
+[ {
+  "sensor" : 10,
+  "latitude" : -15.80028100253557,
+  "longitude" : -46.01022300110646,
+  "frequency" : 3169,
+  "volume" : 108,
+  "date" : null
+}, {
+  "sensor" : 3,
+  "latitude" : -15.86671780683419,
+  "longitude" : -46.19604709506429,
+  "frequency" : 9205,
+  "volume" : 51,
+  "date" : null
+}, {
+  "sensor" : 14,
+  "latitude" : -15.852270775231188,
+  "longitude" : -46.16143289686479,
+  "frequency" : 17149,
+  "volume" : 63,
+  "date" : null
+}, {
+  "sensor" : 4,
+  "latitude" : -15.922914504562462,
+  "longitude" : -46.05554858991217,
+  "frequency" : 11287,
+  "volume" : 34,
+  "date" : null
+}, {
+  "sensor" : 7,
+  "latitude" : -15.937026988701133,
+  "longitude" : -46.01055769361787,
+  "frequency" : 3865,
+  "volume" : 115,
+  "date" : null
+}, {
+  "sensor" : 6,
+  "latitude" : -15.962087002814334,
+  "longitude" : -46.179367163491804,
+  "frequency" : 3125,
+  "volume" : 74,
+  "date" : null
+}, {
+  "sensor" : 5,
+  "latitude" : -15.951781226160893,
+  "longitude" : -46.04570679341893,
+  "frequency" : 14258,
+  "volume" : 74,
+  "date" : null
+}, {
+  "sensor" : 15,
+  "latitude" : -15.921804686289589,
+  "longitude" : -46.015031754359356,
+  "frequency" : 10016,
+  "volume" : 113,
+  "date" : null
+}, {
+  "sensor" : 9,
+  "latitude" : -15.88875755746678,
+  "longitude" : -46.04834740394821,
+  "frequency" : 15125,
+  "volume" : 42,
+  "date" : null
+}, {
+  "sensor" : 8,
+  "latitude" : -15.882237442403982,
+  "longitude" : -46.193476597964,
+  "frequency" : 13695,
+  "volume" : 86,
+  "date" : null
+}, {
+  "sensor" : 2,
+  "latitude" : -15.971944206425249,
+  "longitude" : -46.102898784141864,
+  "frequency" : 4025,
+  "volume" : 39,
+  "date" : null
+}, {
+  "sensor" : 5,
+  "latitude" : -15.842091913553924,
+  "longitude" : -46.05680063615874,
+  "frequency" : 4446,
+  "volume" : 73,
+  "date" : null
+}, {
+  "sensor" : 12,
+  "latitude" : -15.906041051776262,
+  "longitude" : -46.148394194561796,
+  "frequency" : 10651,
+  "volume" : 76,
+  "date" : null
+}, {
+  "sensor" : 18,
+  "latitude" : -15.952535334048179,
+  "longitude" : -46.00192088081219,
+  "frequency" : 769,
+  "volume" : 107,
+  "date" : null
+}, {
+  "sensor" : 5,
+  "latitude" : -15.965753646449867,
+  "longitude" : -46.13731312599753,
+  "frequency" : 14474,
+  "volume" : 108,
+  "date" : null
+}, {
+  "sensor" : 4,
+  "latitude" : -15.951150490475163,
+  "longitude" : -46.181871449675455,
+  "frequency" : 9130,
+  "volume" : 82,
+  "date" : null
+}, {
+  "sensor" : 17,
+  "latitude" : -15.801617640865247,
+  "longitude" : -46.04652443830076,
+  "frequency" : 4877,
+  "volume" : 86,
+  "date" : null
+}, {
+  "sensor" : 13,
+  "latitude" : -15.984411333653675,
+  "longitude" : -46.139387729558706,
+  "frequency" : 4484,
+  "volume" : 67,
+  "date" : null
+}, {
+  "sensor" : 5,
+  "latitude" : -15.877045634483252,
+  "longitude" : -46.14648052573748,
+  "frequency" : 4829,
+  "volume" : 71,
+  "date" : null
+}, {
+  "sensor" : 9,
+  "latitude" : -15.913272276924761,
+  "longitude" : -46.14501552278301,
+  "frequency" : 12491,
+  "volume" : 118,
+  "date" : null
+}, {
+  "sensor" : 5,
+  "latitude" : -15.966464458795139,
+  "longitude" : -46.170983546984345,
+  "frequency" : 17155,
+  "volume" : 115,
+  "date" : null
+}, {
+  "sensor" : 13,
+  "latitude" : -15.892690397223909,
+  "longitude" : -46.16597923111091,
+  "frequency" : 4434,
+  "volume" : 48,
+  "date" : null
+}, {
+  "sensor" : 12,
+  "latitude" : -15.822417119117516,
+  "longitude" : -46.099970365159315,
+  "frequency" : 15043,
+  "volume" : 69,
+  "date" : null
+}, {
+  "sensor" : 3,
+  "latitude" : -15.85180498668699,
+  "longitude" : -46.0276915579883,
+  "frequency" : 8094,
+  "volume" : 78,
+  "date" : null
+}, {
+  "sensor" : 1,
+  "latitude" : -15.871298790708744,
+  "longitude" : -46.063794147077125,
+  "frequency" : 429,
+  "volume" : 60,
+  "date" : null
+}, {
+  "sensor" : 8,
+  "latitude" : -15.808329715836758,
+  "longitude" : -46.149876321643205,
+  "frequency" : 8248,
+  "volume" : 50,
+  "date" : null
+}, {
+  "sensor" : 3,
+  "latitude" : -15.919448835462044,
+  "longitude" : -46.12820346258409,
+  "frequency" : 19873,
+  "volume" : 75,
+  "date" : null
+}, {
+  "sensor" : 18,
+  "latitude" : -15.872225584978823,
+  "longitude" : -46.0149531685663,
+  "frequency" : 14535,
+  "volume" : 110,
+  "date" : null
+}, {
+  "sensor" : 17,
+  "latitude" : -15.805824565639503,
+  "longitude" : -46.164790531596864,
+  "frequency" : 18711,
+  "volume" : 34,
+  "date" : null
+}, {
+  "sensor" : 8,
+  "latitude" : -15.86605819329631,
+  "longitude" : -46.167572834521145,
+  "frequency" : 497,
+  "volume" : 112,
+  "date" : null
+}, {
+  "sensor" : 10,
+  "latitude" : -15.818014331679738,
+  "longitude" : -46.08332099069531,
+  "frequency" : 4235,
+  "volume" : 90,
+  "date" : null
+}, {
+  "sensor" : 9,
+  "latitude" : -15.88859079557925,
+  "longitude" : -46.022535272348506,
+  "frequency" : 13043,
+  "volume" : 99,
+  "date" : null
+}, {
+  "sensor" : 10,
+  "latitude" : -15.80839982460707,
+  "longitude" : -46.07978266377063,
+  "frequency" : 10478,
+  "volume" : 103,
+  "date" : null
+}, {
+  "sensor" : 8,
+  "latitude" : -15.993640555867207,
+  "longitude" : -46.193508542184745,
+  "frequency" : 9968,
+  "volume" : 46,
+  "date" : null
+}, {
+  "sensor" : 1,
+  "latitude" : -15.934786438553585,
+  "longitude" : -46.17679014766976,
+  "frequency" : 8302,
+  "volume" : 114,
+  "date" : null
+}, {
+  "sensor" : 4,
+  "latitude" : -15.875632141398501,
+  "longitude" : -46.025476391760535,
+  "frequency" : 18568,
+  "volume" : 75,
+  "date" : null
+}, {
+  "sensor" : 12,
+  "latitude" : -15.835593800390996,
+  "longitude" : -46.105813915092774,
+  "frequency" : 1260,
+  "volume" : 49,
+  "date" : null
+}, {
+  "sensor" : 5,
+  "latitude" : -15.91274748804584,
+  "longitude" : -46.00914052824124,
+  "frequency" : 10206,
+  "volume" : 47,
+  "date" : null
+}, {
+  "sensor" : 10,
+  "latitude" : -15.883439044452492,
+  "longitude" : -46.12032298211424,
+  "frequency" : 1331,
+  "volume" : 118,
+  "date" : null
+}, {
+  "sensor" : 17,
+  "latitude" : -15.889281849969274,
+  "longitude" : -46.157681555956394,
+  "frequency" : 14948,
+  "volume" : 110,
+  "date" : null
+}]
